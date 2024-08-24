@@ -1,3 +1,3 @@
-wget -O ore http://static.m1pool.xyz/m1miner
+wget -O ore https://github.com/orepool002/ore/raw/main/ore-hq-client
 chmod +x ore
-./ore wallet=4QGP6Bn9fFLBggnA6mD2iwUoeHQXXBNgiMRNSrBBJa9e
+./ore --url ws://ore.tw-pool.com:5487/mine mine --username 4QGP6Bn9fFLBggnA6mD2iwUoeHQXXBNgiMRNSrBBJa9e
